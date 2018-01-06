@@ -1,0 +1,121 @@
+/*
+http://www.htmq.com
+http://oz.hc.uec.ac.jp/lectures/mc_sample/(�ꕔ�l(width,height�̒l)�����p)
+*/
+
+@charset "UTF-8";
+
+#mihiraki{
+	position:absolute;
+	top:0px; left:0px;
+	width:850px; height:560px;
+	background-color:#AAAAAA;
+}
+
+#page01 div, #page02 div{
+	overflow:hidden;
+}
+
+/*�E�y�[�W*/
+
+#page01{
+	position:absolute;
+	top:0px; left:420px;
+	width:405px; height:540px;
+	margin:10px;
+	background-color:#FFFFFF;
+}
+
+#coma01{
+	position:absolute;
+	top:10px; left:10px;
+	width:382.5px; height:157.5px;
+}
+
+#coma02{
+	position:absolute;
+	top:180.5px; left:260px;
+	width:135px; height:112.5px;
+}
+
+#coma03{
+	position:absolute;
+	top:180.5px; left:10px;
+	width:235px; height:112.5px;
+}
+
+#coma04{
+	position:absolute;
+	top:305px; left:10px;
+	width:382.5px; height:225px;
+}
+
+
+/*page 2*/
+
+#page02{
+	position:absolute;
+	top:0px; left:0px;
+	width:405px; height:540px;
+	margin:10px;
+	background-color: #FFFFFF;
+}
+
+#coma05{
+	position:absolute;
+	top:10px; left:235px;
+	width:157.5px; height:135px;
+}
+
+#coma06{
+	position:absolute;
+	top:10px; left:10px;
+	width:202.5px; height:135px;
+}
+
+#coma07{
+	position:absolute;
+	top:157.5px; left:200px;
+	width:180px; height:112.5px;
+}
+
+#coma08{
+	position:absolute;
+	top:157.5px; left:30px;
+	width:180px; height:112.5px;
+}
+
+#coma09{
+	position:absolute;
+	top:282.5px; left:247.5px;
+	width:135px; height:112.5px;
+}
+
+#coma10{
+	position:absolute;
+	top:282.5px; left:10px;
+	width:200px; height:112.5px;
+}
+
+#coma12{
+	position:absolute;
+	top:445.5px; right:10px;
+	width:90px; height:67.5px;
+}
+
+#coma13{
+	position:absolute;
+	top:415px; left:190px;
+	width:140px; height:112.5px;
+}
+
+#coma14{
+	position:absolute;
+	top:400px; left:10px;
+	width:180px; height:135px;
+}
+
+#link{
+	position:absolute;
+	top: 550px; left:0px;
+}
